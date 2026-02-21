@@ -26,6 +26,10 @@ format: # Formats
     indent: true
     include-in-header:
       - file: _resources/tex/beamer.tex
+      - text: |
+          \usepackage{fontspec}
+          \setmainfont{Noto Serif}
+          \setsansfont{Noto Sans}
     babel-lang: russian
     babel-otherlangs: english
   revealjs: # Html output
