@@ -1,0 +1,20 @@
+## Скринкасты
+
+- [Rutube](https://rutube.ru/plst/1491723)
+    - [Выполнение лабораторной работы](https://rutube.ru/video/private/c48c2623afa7d77ed5a9335995278a89/?p=B5FNOE-V9ws3c3oZ9tG7AA)
+    - [Подготовка отчёта](https://rutube.ru/video/private/35efc6b09101f112cc242c0926d2d595/?p=UurEnbjNAbeo0xVA9rqjsA)
+    - [Подготовка презентации](https://rutube.ru/video/private/524ec712f7b6dbac79d5964ba4ea8e7c/?p=81W-gZFNR2RCdgZ0aLRkNQ)
+    - [Защита лабораторной работы](https://rutube.ru/video/private/0fef6c94338842ccef8d02f0498fa27f/?p=vixI0cV0sOuyFwiSYxUTkw)
+
+- [VKvideo](https://vkvideo.ru/playlist/-233643114_10)
+    - [Выполнение лабораторной работы](https://vkvideo.ru/video-233643114_456239053?sh=4&list=ln-84dRCBPYM3bBGxV3WM)
+    - [Подготовка отчёта](https://vkvideo.ru/playlist/-233643114_10/video-233643114_456239054?linked=1)
+    - [Подготовка презентации](https://vkvideo.ru/playlist/-233643114_10/video-233643114_456239055?linked=1)
+    - [Защита лабораторной работы](https://vkvideo.ru/playlist/-233643114_10/video-233643114_456239056?linked=1)
+
+## Репозитории
+
+- [github](https://github.com/GeldiyevY/infosec-intro-2025-2026)
+    - [Релиз v0.1](https://github.com/GeldiyevY/infosec-intro-2025-2026/releases/tag/v0.1)
+- [gitverse](https://gitverse.ru/GeldiyevY/infosec-intro-2025-2026)
+    - [Релиз v0.1](https://gitverse.ru/GeldiyevY/infosec-intro-2025-2026/releases/tag/v0.1)
